@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me ... LinkedIn: https://www.linkedin.com/in/mahesh-mahi-14b949130
-     Gmail: pakamahesh81@gmail.com
+       Gmail: pakamahesh81@gmail.com
 
 
 <!---
